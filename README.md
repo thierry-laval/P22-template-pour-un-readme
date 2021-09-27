@@ -37,29 +37,29 @@ Un modèle de fichier génial pour lancer vos projets !
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE DES MATIÈRES -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#construit-avec">Construit avec</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Commencer à travailler</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequisites">Conditions préalables</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#usage">Utilisation</a></li>
+    <li><a href="#roadmap">Feuille de route</a></li>
+    <li><a href="#contributing">Contribution</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgements">Remerciements</a></li>
   </ol>
 </details>
 

@@ -42,7 +42,7 @@ Un modèle de fichier génial pour lancer vos projets !
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#a-propos-du-projet">About The Project</a>
+      <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>

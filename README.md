@@ -44,7 +44,7 @@ Un modèle de fichier génial pour lancer vos projets !
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#construit-avec">Construit avec</a></li>
+        <li><a href="#built-with">Construit avec</a></li>
       </ul>
     </li>
     <li>

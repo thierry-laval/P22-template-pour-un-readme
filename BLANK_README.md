@@ -21,6 +21,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- DESCRIPTION DU PROJET -->
   <h3 align="center">Titre du projet</h3>
 
@@ -139,11 +146,8 @@ Votre nom - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Lien vers le projet : [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-
-
 <!--Remerciements -->
 ## Remerciements
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]

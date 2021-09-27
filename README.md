@@ -26,8 +26,6 @@
 
 ### 📎 Projet 22 - Création d'un fichier README pour GitHub
 
-![left 100%](images/logo.png)
-
 _`Début du projet le 10/09/2021`_
 
 <!-- LOGO DU PROJET -->
@@ -43,19 +41,21 @@ Un modèle de fichier génial pour lancer vos projets !
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme"><strong>>> Explorer les docs <<</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/BLANK_README.md">View Demo</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/BLANK_README.md">Voir la démo</a>
     ·
-    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/pulls">Report Bug</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/pulls">Rapport de Bug</a>
     ·
-    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Request Feature</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Demande de fonctionnalité</a>
   </p>
 </p>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 ***
 
 <!-- TABLE DES MATIÈRES -->

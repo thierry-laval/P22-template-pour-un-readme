@@ -172,17 +172,16 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Thierry Laval - [@twitter_handle](https://twitter.com/thierry_laval) - contact@thierrylaval.dev
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](https://github.com/thierry-laval/P22-template-pour-un-readme)
 
 <!--Remerciements -->
-## Acknowledgements
+## Remerciements
+
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -210,3 +209,26 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+***
+
+### Utilisé dans ce projet
+
+| Langages           | et Applications    |
+| :-------------:     |:--------------:    |
+| Firefox développeur | Visual Studio Code |
+| Git/GitHub          | Markdown           |
+
+***N'hésitez pas à contribuer, en ouvrant une issue.***
+
+#### Merci à tous
+
+***
+
+&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+
+<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>

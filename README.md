@@ -13,22 +13,30 @@
 *** pour contributeurs-url, forks-url, etc. Voici une syntaxe optionnelle et concise que vous pouvez utiliser.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png)
+
+## Auteur
+
+👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
+
+* Github: [@Thierry Laval](https://github.com/thierry-laval)
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+
+***
+
+### 📎 Projet 22 - Création d'un fichier README pour GitHub
+
+![left 100%](images/logo.png)
+
+_`Début du projet le 10/09/2021`_
 
 <!-- LOGO DU PROJET -->
 <br />
 <p align="center">
   <a href="images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
-
   <h3 align="center">Un bon template README</h3>
-
   <p align="center">
 Un modèle de fichier génial pour lancer vos projets !
     <br />
@@ -42,6 +50,13 @@ Un modèle de fichier génial pour lancer vos projets !
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Request Feature</a>
   </p>
 </p>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+***
 
 <!-- TABLE DES MATIÈRES -->
 <details open="open">

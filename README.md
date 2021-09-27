@@ -136,41 +136,33 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
+<!-- EXEMPLES D'UTILISATION -->
+## Utilisation
 
+Utilisez cet espace pour montrer des exemples utiles de la façon dont un projet peut être utilisé. Des captures d'écran supplémentaires, des exemples de code et des démos fonctionnent bien dans cet espace. Vous pouvez également créer un lien vers d'autres ressources.
 
-<!-- USAGE EXAMPLES -->
-## Usage
+_Pour plus d'exemples, veuillez vous référer à la [Documentation] (https://example.com)._
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- FEUILLE DE ROUTE -->
+## Feuille de route
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Voir le [open issues](https://github.com/thierry-laval/P22-template-pour-un-readme/issues) pour une liste des fonctionnalités proposées (et des problèmes connus).
 
+<!-- CONTRIBUTION -->
+## Contribuer
 
+Les contributions sont ce qui fait de la communauté open source un endroit si incroyable pour apprendre, inspirer et créer. Toutes les contributions que vous faites sont **grandement appréciées**.
 
-<!-- ROADMAP -->
-## Roadmap
+1. Forkez le projet
+2. Créez votre branche Feature (`git checkout -b feature/AmazingFeature`)
+3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Pusher vers la branche (`git push origin feature/AmazingFeature`)
+5. Ouvrez une Pull Request
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+<!-- LICENCE -->
+## Licence
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 <!-- CONTACT -->
 ## Contact

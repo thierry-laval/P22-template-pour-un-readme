@@ -15,11 +15,10 @@
 -->
 
 <!-- LOGO DU PROJET -->
-
 <br />
 <p align="center">
   <a href="images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Un bon template README</h3>
@@ -27,25 +26,23 @@
   <p align="center">
 Un modèle de fichier génial pour lancer vos projets !
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>>> Explorer les docs <<</strong></a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme"><strong>>> Explorer les docs <<</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/BLANK_README.md">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/pulls">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#a-propos-du-projet">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -66,8 +63,8 @@ Un modèle de fichier génial pour lancer vos projets !
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- A PROPOS DU PROJET -->
+## A propos du projet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 

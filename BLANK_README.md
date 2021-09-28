@@ -70,7 +70,7 @@ _`Début du projet le DATE`_
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#construits-avec">Construit avec</a></li>
+        <li><a href="#construit-avec">Construit avec</a></li>
       </ul>
     </li>
     <li>

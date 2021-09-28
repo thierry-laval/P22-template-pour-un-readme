@@ -106,18 +106,17 @@ Voici quelques exemples.
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
+<!-- COMMENCER A TRAVAILLER -->
+## Commencer à travailler
 
+Il s'agit d'un exemple de la façon dont vous pouvez donner des instructions sur la mise en place de votre projet localement. Pour mettre en place une copie locale et la faire fonctionner, suivez les étapes simples de cet exemple.
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Conditions préalables
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Voici un exemple de la liste des éléments dont vous avez besoin pour utiliser le logiciel et de la façon de les installer.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -126,14 +125,19 @@ This is an example of how to list things you need to use the software and how to
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
+
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your API in `config.js`
+
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```

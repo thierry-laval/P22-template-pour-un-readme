@@ -113,20 +113,32 @@ Pour mettre en place une copie locale, suivez ces quelques étapes simples.
 ### Conditions préalables
 
 Voici un exemple de la liste des éléments dont vous avez besoin pour utiliser le logiciel et de la façon de les installer.
+
 * npm
+
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
 
-1. Clonez le dépôt
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Installez les paquets NPM
+
+3. Install NPM packages
+
    ```sh
    npm install
+   ```
+
+4. Enter your API in `config.js`
+
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
    ```
 
 <!-- EXEMPLES D'UTILISATION -->

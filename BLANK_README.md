@@ -68,9 +68,9 @@ _`Début du projet le DATE`_
   <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">A propos du projet</a>
+      <a href="#A propos du projet">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Construit avec</a></li>
+        <li><a href="#Construits avec">Construit avec</a></li>
       </ul>
     </li>
     <li>

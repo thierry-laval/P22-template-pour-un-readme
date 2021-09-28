@@ -194,7 +194,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 
 <!-- MARKDOWN LIENS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?label=Contributeurs&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/thierry-laval/P22-template-pour-un-readme.svg?label=Contributeurs&style=for-the-badge&color=blue
 [contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
 [forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members

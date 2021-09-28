@@ -195,6 +195,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com){:target="_blank" }
+* <a href="https://fontawesome.com" target="_blank">Font Awesome</a>
 
 <!-- MARKDOWN LIENS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

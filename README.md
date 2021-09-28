@@ -199,7 +199,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 [forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
 [forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members
 [stars-shield]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
-[stars-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/stargazers
+[stars-url]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?label=STARS&style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/issues
 [license-shield]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
@@ -209,44 +209,6 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 [product-screenshot]: images/screenshot.png
 
 ***
-
-[contributors-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?label=Contributeurs&style=for-the-badge
-[contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
-[forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme
-[stars-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/stargazers
-
-
-[issues-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?color=yellow&style=for-the-badge
-
-[issues-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/issues
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-[license-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/LICENSE
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-[linkedin-url]: https://www.linkedin.com/in/thierry-laval
-
-[product-screenshot]: images/screenshot.png
-
-
-
-
-
-
-
-
-https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-
-
-
-
 
 ### Utilisé dans ce projet
 

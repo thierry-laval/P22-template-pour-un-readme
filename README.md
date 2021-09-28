@@ -203,6 +203,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 [issues-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/issues
 [license-shield]: https://img.shields.io/badge/LICENCE-MIT-green?style=for-the-badge
+[license-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/twitter/url?label=LINKEDIN&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthierry-laval
 [linkedin-url]: https://www.linkedin.com/in/thierry-laval
 [product-screenshot]: images/screenshot.png

@@ -184,7 +184,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
+* [Animate.css](https://animate.style)
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)

@@ -34,11 +34,13 @@ _`Début du projet le 10/09/2021`_
 <!-- LOGO DU PROJET -->
 <br />
 <p align="center">
+
+<!-- DESCRIPTION DU PROJET -->
   <h3 align="center">Un bon template README</h3>
   <p align="center">
 Un modèle de fichier génial pour lancer vos projets !
     <br />
-    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme"><strong>>> Explorer les docs <<</strong></a>
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme"><strong>>> Explorer les documents <<</strong></a>
     <br />
     <br />
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/BLANK_README.md">Voir la démo</a>
@@ -65,22 +67,22 @@ Un modèle de fichier génial pour lancer vos projets !
     <li>
       <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Construit avec</a></li>
+        <li><a href="#construits-avec">Construit avec</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Commencer à travailler</a>
+      <a href="#commencer-à-travailler">Commencer à travailler</a>
       <ul>
-        <li><a href="#prerequisites">Conditions préalables</a></li>
+        <li><a href="#conditions-préalables">Conditions préalables</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Utilisation</a></li>
-    <li><a href="#roadmap">Feuille de route</a></li>
-    <li><a href="#contributing">Contribution</a></li>
+    <li><a href="#utilisation">Utilisation</a></li>
+    <li><a href="#feuille-de-route">Feuille de route</a></li>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Remerciements</a></li>
+    <li><a href="#remerciements">Remerciements</a></li>
   </ol>
 </details>
 

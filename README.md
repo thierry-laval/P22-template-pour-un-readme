@@ -199,7 +199,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 [forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
 [forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members
 [stars-shield]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
-[stars-url]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?label=STARS&style=for-the-badge
+[stars-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/stargazers
 [issues-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/issues
 [license-shield]: https://img.shields.io/github/stars/thierry-laval/P22-template-pour-un-readme?style=for-the-badge

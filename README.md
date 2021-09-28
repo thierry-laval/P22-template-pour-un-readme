@@ -173,7 +173,7 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 <!-- CONTACT -->
 ## Contact
 
-Thierry Laval - [@twitter_handle](https://twitter.com/thierry_laval) - contact@thierrylaval.dev
+Thierry Laval - [@twitter](https://twitter.com/thierry_laval) - contact@thierrylaval.dev
 
 Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](https://github.com/thierry-laval/P22-template-pour-un-readme)
 

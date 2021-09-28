@@ -38,7 +38,7 @@
     <br />
     <a href="https://github.com/github_username/repo_name">Voir la démo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report de Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Rapport de Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Demande de fonctionnalité</a>
   </p>

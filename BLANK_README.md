@@ -13,12 +13,23 @@
 *** pour contributeurs-url, forks-url, etc. Voici une syntaxe optionnelle et concise que vous pouvez utiliser.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+# ![left 100%](Mettre son propre logo)
+
+## Auteur
+
+👤**Nom Prénon** [🇫🇷 Contactez moi 🇬🇧](<exemple@email.com>)
+
+* Github: [@son ID](https://github.com/son ID)
+* LinkedIn: [@son ID](https://www.linkedin.com/in/son ID)
+
+***
+
+### 📎 Projet XX - Nom du projet
+
+![left 100%](bandeau du projet.png?raw=true)
+
+_`Début du projet le DATE`_
 
 <!-- LOGO DU PROJET -->
 <br />
@@ -29,20 +40,28 @@
 
 <!-- DESCRIPTION DU PROJET -->
   <h3 align="center">Titre du projet</h3>
-
   <p align="center">
-  Mettre une description du projet :<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus turpis odio, non suscipit massa porttitor nec.
+  Mettre une description du projet :<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>>> Explorer les documents <<</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">Voir la démo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Rapport de Bug</a>
+    <a href="https://github.com/github_username/repo_name/pulls">Rapport de Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Demande de fonctionnalité</a>
   </p>
 </p>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+***
 
 <!-- TABLE DES MATIÈRES -->
 <details open="open">
@@ -61,7 +80,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Utilisation</a></li>
+    <li><a href="#Utilisation">Utilisation</a></li>
     <li><a href="#roadmap">Feuille de route</a></li>
     <li><a href="#contributing">Contribution</a></li>
     <li><a href="#license">License</a></li>

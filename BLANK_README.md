@@ -68,24 +68,24 @@ _`Début du projet le DATE`_
   <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
     <li>
-      <a href="#A">A propos du projet</a>
+      <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#Construits">Construit avec</a></li>
+        <li><a href="#construits-avec">Construit avec</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Commencer à travailler</a>
+      <a href="#commencer-à-travailler">Commencer à travailler</a>
       <ul>
-        <li><a href="#Conditions">Conditions préalables</a></li>
-        <li><a href="#Installation">Installation</a></li>
+        <li><a href="#conditions-préalables">Conditions préalables</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Utilisation">Utilisation</a></li>
-    <li><a href="#roadmap">Feuille de route</a></li>
-    <li><a href="#contributing">Contribution</a></li>
+    <li><a href="#utilisation">Utilisation</a></li>
+    <li><a href="#feuille-de-route">Feuille de route</a></li>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Remerciements</a></li>
+    <li><a href="#remerciements">Remerciements</a></li>
   </ol>
 </details>
 

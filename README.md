@@ -202,7 +202,7 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 [stars-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/stargazers
 [issues-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/issues
-[license-shield]: https://img.shields.io/badge/licence-MIT-green
+[license-shield]: https://img.shields.io/badge/licence-MIT-green?style=for-the-badge&logo=appveyor
 [license-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/thierry-laval

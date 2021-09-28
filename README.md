@@ -13,6 +13,7 @@
 *** pour contributeurs-url, forks-url, etc. Voici une syntaxe optionnelle et concise que vous pouvez utiliser.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 # ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png)
 
 ## Auteur
@@ -33,9 +34,6 @@ _`Début du projet le 10/09/2021`_
 <!-- LOGO DU PROJET -->
 <br />
 <p align="center">
-  <a href="images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
-  </a>
   <h3 align="center">Un bon template README</h3>
   <p align="center">
 Un modèle de fichier génial pour lancer vos projets !

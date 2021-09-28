@@ -196,8 +196,8 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?label=Contributeurs&style=for-the-badge
 [contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
+[forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -211,10 +211,9 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 ***
 
 [contributors-shield]: https://img.shields.io/github/issues/thierry-laval/P22-template-pour-un-readme?label=Contributeurs&style=for-the-badge
-
 [contributors-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/thierry-laval/P22-template-pour-un-readme?style=for-the-badge
 
 [forks-url]: https://github.com/thierry-laval/P22-template-pour-un-readme/network/members
 

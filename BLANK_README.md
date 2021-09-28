@@ -68,7 +68,7 @@ _`Début du projet le DATE`_
   <summary><h2 style="display: inline-block">Table des matières</h2></summary>
   <ol>
     <li>
-      <a href="#A propos du projet">A propos du projet</a>
+      <a href="#A">A propos du projet</a>
       <ul>
         <li><a href="#Construits">Construit avec</a></li>
       </ul>
@@ -76,8 +76,8 @@ _`Début du projet le DATE`_
     <li>
       <a href="#getting-started">Commencer à travailler</a>
       <ul>
-        <li><a href="#prerequisites">Conditions préalables</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Conditions">Conditions préalables</a></li>
+        <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#Utilisation">Utilisation</a></li>

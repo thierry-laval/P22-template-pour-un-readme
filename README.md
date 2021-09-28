@@ -26,6 +26,8 @@
 
 ### 📎 Projet 22 - Création d'un fichier README pour GitHub
 
+![left 100%](images/bandeau-readme.png?raw=true)
+
 _`Début du projet le 10/09/2021`_
 
 <!-- LOGO DU PROJET -->

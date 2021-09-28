@@ -48,6 +48,10 @@ Un modèle de fichier génial pour lancer vos projets !
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/pulls">Rapport de Bug</a>
     ·
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Demande de fonctionnalité</a>
+  </p>
+</p>
+
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -55,8 +59,8 @@ Un modèle de fichier génial pour lancer vos projets !
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</p></p>
 
+</div>
 ***
 
 <!-- TABLE DES MATIÈRES -->

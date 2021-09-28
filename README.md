@@ -49,14 +49,14 @@ Un modèle de fichier génial pour lancer vos projets !
     ·
     <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Demande de fonctionnalité</a>
   </p>
-
+<p>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
+</p></p>
 
 ***
 

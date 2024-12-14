@@ -169,18 +169,6 @@ Les contributions sont ce qui fait de la communauté open source un endroit si i
 4. Pusher vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-<!-- LICENCE -->
-## Licence
-
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
-
-<!-- CONTACT -->
-## Contact
-
-Thierry Laval - [@twitter](https://twitter.com/thierry_laval) - contact@thierrylaval.dev
-
-Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](https://github.com/thierry-laval/P22-template-pour-un-readme)
-
 <!--Remerciements -->
 ## Remerciements
 
@@ -227,10 +215,32 @@ Project Link: [https://github.com/thierry-laval/P22-template-pour-un-readme](htt
 
 ***
 
-&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+#### 📝 &nbsp; License
+
+Ce projet est sous licence [MIT](LICENCE).
+
+Copyright © 2021 [Thierry Laval](https://thierrylaval.dev)
+
+#### €€€ Soutien
+
+Si vous appréciez ce projet, vous pouvez me soutenir :
+
+<a href="https://paypal.me/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="Soutiens-moi !" height="35" width="150"></a>
+
+[Voir mon travail](https://github.com/thierry-laval)
+
+[Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
+
+***
+
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp;si ce projet vous plaît !
 
 <span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
 
-<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+<!-- [This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
-<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
+<a href="url"><img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)** <br>
